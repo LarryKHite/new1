@@ -13,8 +13,8 @@ subtitle: ""
 lang: en-us
 author: carper
 copyright: "&#xA9; 2022"
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://bestdailypodcast.xyz" # the base hostname & protocol for your site
+baseurl: "/new1" # the subpath of your site, e.g. /blog
+url: "https://larrykhite.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username: 
 
